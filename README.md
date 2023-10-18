@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *************
 
  <br> 🌍  I'm based in Puerto Rico <br>
- 🧠  I'm learning C# <br>
+ 🧠  I'm learning C#/Unity <br>
      💻  Holberton Student
 
 <!-- Language & Frameworks -->
