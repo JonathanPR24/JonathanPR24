@@ -1,3 +1,7 @@
+<div id="header" align="center">
+<img src=https://github.com/JonathanPR24/JonathanPR24/blob/main/Assets/Purple%20Blue%20Colorful%20Gaming%20LinkedIn%20Banner.gif>
+</div>
+
 <h1 align="center">Hi 👋, I'm Jonathan Perez</h1>
 <h3 align="center">Software Engineer</h3>
 
